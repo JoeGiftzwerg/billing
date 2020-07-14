@@ -28,7 +28,7 @@
 		<commons-collections.version>3.2.2</commons-collections.version>
 		<commons-lang3.version>3.7</commons-lang3.version>
 		<xz.version>1.8</xz.version>
-		<commons.compress.version>1.18</commons.compress.version>
+		<commons.compress.version>1.19</commons.compress.version>
 	</properties>
 
 
